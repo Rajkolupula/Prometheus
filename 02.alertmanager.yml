@@ -8,11 +8,11 @@ receivers:
 - name: email-me
   email_configs:
   - send_resolved: true
-    to: admin@deekshithsn.co.in
-    from: admin@deekshithsn.co.in
+    to: rkolupula589@gmail.com
+    from: rkolupula589@gmail.com
     smarthost: smtpout.secureserver.net:587
-    auth_username: "admin@deekshithsn.co.in"
-    auth_identity: "admin@deekshithsn.co.in"
+    auth_username: "rkolupula589@gmail.com"
+    auth_identity: "rkolupula589@gmail.com"
     auth_password: "Callbooking123"
     tls_config:
           insecure_skip_verify: true
